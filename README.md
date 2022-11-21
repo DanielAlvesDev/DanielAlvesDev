@@ -1,7 +1,7 @@
 ## Hello There!!, Me chamo Daniel Alves!
 
 - 🚀 "Viver pra ser melhor, também é um jeito de levar a vida."
-- 🔭 Estou atualmente trabalhando Projetos Elétricos
+- 🔭 Estou atualmente trabalhando com Projetos Elétricos
 - 🌱 Estudando na Trybe para ser Desenvolvedor FullStack / Sistema da informação (Unis/MG)
 - 👯 Busco ingressar em Desenvolvimento Front-End e Back-end
 - 📩 https://beacons.ai/danielalves
