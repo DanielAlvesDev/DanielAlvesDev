@@ -6,7 +6,7 @@
 - 👯 Busco ingressar em Desenvolvimento Front-End e Back-end
 - 📩 https://beacons.ai/danielalves
 - 😄 Ele/Dele
-- ⚡ Tenho inglês avançado/fluente / Técnico em Automação Industrial
+- ⚡ Tenho inglês avançado/fluente / Técnico em Automação Industrial com Ênfase em Eletrônica
 
 <div align="center">
   <a href="https://beacons.ai/danielalves">
